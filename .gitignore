@@ -3,3 +3,4 @@ RemoteSystemsTempFiles/
 *.settings/
 *target/
 .metadata/
+.recommenders/
