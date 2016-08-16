@@ -1,6 +1,5 @@
-*.recommenders
 RemoteSystemsTempFiles/
 *.classpath
 *.settings/
 *target/
-*.metadata
+.metadata/
